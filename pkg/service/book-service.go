@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/dto"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/entity"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/repository"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/dto"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/entity"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/repository"
 	"github.com/mashingan/smapping"
 )
 

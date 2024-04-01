@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/pkg/entity"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/entity"
 	"github.com/joho/godotenv"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

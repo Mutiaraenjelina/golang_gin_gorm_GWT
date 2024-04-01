@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/config"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/controller"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/middleware"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/repository"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/service"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/config"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/controller"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/middleware"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/repository"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/service"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

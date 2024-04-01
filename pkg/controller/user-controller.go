@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/dto"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/helper"
-	"github.com/Mutiaraenjelina/golang_gin_gorm_GWT/service"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/dto"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/helper"
+	"github.com/Mutiaraenjelina/golang_gin_gorm_JWT/pkg/service"
 	"github.com/dgrijalva/jwt-go"
 	"github.com/gin-gonic/gin"
 )
